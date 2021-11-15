@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Miguel-Ojeda
-- 👀 I’m interested in programming, R, Data Science, LISP, emacs
+- 👀 I’m interested in programming, R, Data Science, LISP, emacs, Linux.
 - 🌱 I’m currently learning R, Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
